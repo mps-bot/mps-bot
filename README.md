@@ -1,6 +1,6 @@
 # MPS-Bot
 
-The source code of MPS-Bot (Message Passing over Simplexes for Bot Detection)
+The source code of MPS-Bot (Message Passing over Simplexes for Bot Detection) in WWW2026.
 
 ## Environment Setup
 
